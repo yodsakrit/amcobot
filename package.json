@@ -3,6 +3,6 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-   "@line/liff":"^2.3.1"
+    "@line/liff": "^2.11.0"
   }
 }
